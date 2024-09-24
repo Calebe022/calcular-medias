@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    color: #ffffff;
+    background-color: #F1A629;
+  }
+.calculator h2 {
+    color: #faf606;
+}
+  .calculator {
+    padding: 20px;
+    background-color: #1181cc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .btn {
+    padding: 5px 15px;
+    background-color: #00ff73;
+    color: #0a0a0a;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  input {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  #resultado {
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .aprovada {
+    color: #000000;
+    background-color: #00ee08;
+  }
+  
+  .reprovada {
+    color: #ffffff;
+    background-color: #ff0000;
+  }
