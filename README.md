@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">A página HTML define a estrutura básica da calculadora:<br><br>- Um título (<h2>) "Calculadora de Médias".<br>- Um campo de entrada de notas (<input type="number">).<br>- Botões para adicionar notas e calcular a média.<br>- Uma lista de notas adicionadas exibida dinamicamente.<br>- Um parágrafo para mostrar o resultado da média e indicar se o aluno foi aprovado ou reprovado.</p>
+<p align="left">A página HTML define a estrutura básica da calculadora:<br><br>- Um título "Calculadora de Médias".<br>- Um campo de entrada de notas.<br>- Botões para adicionar notas e calcular a média.<br>- Uma lista de notas adicionadas exibida dinamicamente.<br>- Um parágrafo para mostrar o resultado da média e indicar se o aluno foi aprovado ou reprovado.</p>
 
 ###
 
